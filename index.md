@@ -4,9 +4,11 @@ permalink: /
 
 title: CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models
 authors:
-    Sreyan Ghosh
+    Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Reddy Evuru, Ramaneswaran S, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
 affiliations:
-    King's College, Cambridge
+    University of Maryland, College Park
+    Adobe, USA
+    NVIDIA, Bangalore, India
 paper: https://openreview.net/forum?id=86NGO8qeWs
 code: https://github.com/Sreyan88/CompA
 data: https://github.com/Sreyan88/CompA
