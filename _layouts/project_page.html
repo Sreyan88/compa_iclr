@@ -59,14 +59,14 @@
               </span>
               {% endif %}
               <!-- Video Link. -->
-              {% if page.video %}
+              {% if page.slides %}
               <span class="link-block">
-                <a href="{{ page.video }}"
+                <a href="{{ page.slides }}"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
-                      <i class="fab fa-youtube"></i>
+                      <i class="fas fa-file-pdf"></i>
                   </span>
-                  <span>Video</span>
+                  <span>Slides</span>
                 </a>
               </span>
               {% endif %}
@@ -83,14 +83,25 @@
               </span>
               {% endif %}
               <!-- Dataset Link. -->
-              {% if page.data %}
+              {% if page.compaorder %}
               <span class="link-block">
-                <a href="{{ page.data }}"
+                <a href="{{ page.compaorder }}"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-database"></i>
                   </span>
-                  <span>Data</span>
+                  <span>CompA-Order</span>
+                </a>
+              </span>
+              {% endif %}
+              {% if page.data %}
+              <span class="link-block">
+                <a href="{{ page.compaattribute }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-database"></i>
+                  </span>
+                  <span>CompA-Order</span>
                 </a>
               </span>
               {% endif %}
