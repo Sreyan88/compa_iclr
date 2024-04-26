@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models
+title: CompA Addressing the Gap in Compositional Reasoning in Audio-Language Models
 authors:
     Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Reddy Evuru, Ramaneswaran S, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
 affiliations:
