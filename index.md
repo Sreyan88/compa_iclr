@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models"
+title: "CompA Addressing the Gap in Compositional Reasoning in Audio-Language Models"
 authors:
     [Sreyan Ghosh](https://sreyan88.github.io/)<sup>1,2</sup>, Ashish Seth<sup>1</sup>, Sonal Kumar<sup>1</sup>, Utkarsh Tyagi<sup>1</sup>, Chandra Kiran Reddy Evuru<sup>1</sup>,  
     Ramaneswaran S<sup>3</sup>, S Sakshi<sup>1</sup>, Oriol Nieto<sup>2</sup>, Ramani Duraiswami<sup>1</sup>, [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)<sup>1</sup>
@@ -12,10 +12,9 @@ affiliations:
     NVIDIA, Bangalore, India<sup>3</sup>,
 paper: https://openreview.net/forum?id=86NGO8qeWs
 code: https://github.com/Sreyan88/CompA
-data: https://github.com/Sreyan88/CompA
-slides: https://sreyan88.github.io/assets/ICLR_Presentation.pdf
 compaorder: https://drive.google.com/file/d/1A_HDH0sO6Pp-kvdcTJrAA6MJZiItHZTQ/view?usp=sharing
 compaattribute: https://sreyan88.github.io/assets/ICLR_Presentation.pdf
+slides: https://sreyan88.github.io/assets/ICLR_Presentation.pdf
 ---
 
 ![Turing Machine](/static/image/benchmark-1.png)
