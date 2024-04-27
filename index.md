@@ -2,10 +2,10 @@
 layout: project_page
 permalink: /
 
-title: CompA Addressing the Gap in Compositional Reasoning in Audio-Language Models
+title: "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models"
 authors:
-    [Sreyan Ghosh](https://sreyan88.github.io/)<sup>1,2</sup>, Ashish Seth<sup>1</sup>, Sonal Kumar<sup>1</sup>, Utkarsh Tyagi<sup>1</sup>, Chandra Kiran Reddy Evuru<sup>1</sup>,  
-    Ramaneswaran S<sup>3</sup>, S Sakshi<sup>1</sup>, Oriol Nieto<sup>2</sup>, Ramani Duraiswami<sup>1</sup>, [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)<sup>1</sup>
+    Sreyan Ghosh<sup>1,2</sup>, Ashish Seth<sup>1</sup>, Sonal Kumar<sup>1</sup>, Utkarsh Tyagi<sup>1</sup>, Chandra Kiran Reddy Evuru<sup>1</sup>,  
+    Ramaneswaran S<sup>3</sup>, S Sakshi<sup>1</sup>, Oriol Nieto<sup>2</sup>, Ramani Duraiswami<sup>1</sup>, Dinesh Manocha<sup>1</sup>
 affiliations:
     University of Maryland, College Park<sup>1</sup>,
     Adobe, USA<sup>2</sup>,
