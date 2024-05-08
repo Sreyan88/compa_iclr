@@ -9,11 +9,11 @@ authors:
 affiliations:
     University of Maryland, College Park<sup>1</sup>,
     Adobe, USA<sup>2</sup>,
-    NVIDIA, Bangalore, India<sup>3</sup>,
+    NVIDIA, Bangalore, India<sup>3</sup>
 paper: https://openreview.net/forum?id=86NGO8qeWs
 code: https://github.com/Sreyan88/CompA
 compaorder: https://drive.google.com/file/d/1A_HDH0sO6Pp-kvdcTJrAA6MJZiItHZTQ/view?usp=sharing
-compaattribute: https://sreyan88.github.io/assets/ICLR_Presentation.pdf
+compaattribute: https://drive.google.com/file/d/1hX2NwqA8M9gbCSFS7c0IcREQSodnNHLA/view?usp=sharing
 slides: https://sreyan88.github.io/assets/ICLR_Presentation.pdf
 ---
 
